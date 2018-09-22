@@ -1,27 +1,27 @@
 {
   "project_info": {
-    "project_number": "922926721597",
-    "firebase_url": "https://upto93-7efff.firebaseio.com",
-    "project_id": "upto93-7efff",
-    "storage_bucket": "upto93-7efff.appspot.com"
+    "project_number": "549797587547",
+    "firebase_url": "https://finalinsta-dad57.firebaseio.com",
+    "project_id": "finalinsta-dad57",
+    "storage_bucket": "finalinsta-dad57.appspot.com"
   },
   "client": [
     {
       "client_info": {
-        "mobilesdk_app_id": "1:922926721597:android:d49c650ed5c2c559",
+        "mobilesdk_app_id": "1:549797587547:android:d49c650ed5c2c559",
         "android_client_info": {
           "package_name": "tabian.com.instagramclone2"
         }
       },
       "oauth_client": [
         {
-          "client_id": "922926721597-g646i86r2g4m9tu1q0abfre6ddp743mh.apps.googleusercontent.com",
+          "client_id": "549797587547-dcslo4c7kcnr7sqkrl2p7rh7o282dobn.apps.googleusercontent.com",
           "client_type": 3
         }
       ],
       "api_key": [
         {
-          "current_key": "AIzaSyAmOUi6X2ITAX1LiBSnSzdf5HXxM299k2Q"
+          "current_key": "AIzaSyCY86At0aSWYRy_XclFmrnEKbXsHxaegZk"
         }
       ],
       "services": {
