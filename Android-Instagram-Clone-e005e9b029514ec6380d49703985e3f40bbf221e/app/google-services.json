@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "922926721597",
+    "firebase_url": "https://upto93-7efff.firebaseio.com",
+    "project_id": "upto93-7efff",
+    "storage_bucket": "upto93-7efff.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:922926721597:android:d49c650ed5c2c559",
+        "android_client_info": {
+          "package_name": "tabian.com.instagramclone2"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "922926721597-g646i86r2g4m9tu1q0abfre6ddp743mh.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAmOUi6X2ITAX1LiBSnSzdf5HXxM299k2Q"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
